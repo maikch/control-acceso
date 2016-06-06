@@ -2,11 +2,11 @@
 	/*ini_set("display_errors", 0);
 	error_reporting(0);*/
 
-	$base_path		= "http://localhost/demo_flexcodesdk/";
-	$db_name		= "demo_flexcodesdk";
-	$db_user		= "root";
-	$db_pass		= "";
-	$db_host		= "127.0.0.1:3316";
+	$base_path		= "http://localhost/control-acceso/";
+	$db_name		= "ControlAcceso";
+	$db_user		= "ControlAcceso";
+	$db_pass		= "c0ntr0l4cc3s0";
+	$db_host		= "127.0.0.1";
 	$time_limit_reg = "15";
 	$time_limit_ver = "10";
 
